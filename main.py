@@ -2,7 +2,7 @@ import os
 
 def format_sql_inserts():
     # Definimos los nombres de archivos en la raíz del proyecto
-    input_file = "example.sql"  # Archivo original
+    input_file = "inserts.sql"  # Archivo original
     output_file = "import.sql"  # Archivo resultante
     
     # Verificamos que el archivo de entrada existe
